@@ -1,0 +1,19 @@
+html, body {
+  margin: 0px;
+  padding: 0px;
+  background-color:darkblue;
+}
+canvas {
+  display: block;
+
+}
+.head{
+  font-size: 35px;
+  font-family:monospace,Helvetica,Arial, sans-serif;
+}
+
+h1{
+  font-family: cursive,monospace,Georgia, 'Times New Roman', Times, serif;
+  font-size: 25px;
+  color:white;
+}
